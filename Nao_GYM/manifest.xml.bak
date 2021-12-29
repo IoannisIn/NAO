@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.0" uuid="12345-4ba79a" installOnlyAtStartup="false">
+ <names>
+  <name lang="en_US">Untitled</name>
+ </names>
+ <supportedLanguages>
+  <language>en_US</language>
+  <language>el_GR</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+  <language>el_GR</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <userRequestable/>
+   <nature>interactive</nature>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
