@@ -1,7 +1,7 @@
 # NAO
 NAO projects
 
-In this project NAO perform some gymnastic movements (rolling of the hips).
+In this project NAO performs some gymnastic movements (rolling of the hips).
 NAO is confugured to talk in Greek language.
 
 Tools used in this project are Python and Choregraphe 2.8.6.23
