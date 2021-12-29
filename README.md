@@ -1,5 +1,4 @@
 # NAO
-NAO projects
 
 In this project NAO performs some gymnastic movements (rolling of the hips).
 NAO is confugured to talk in Greek language.
